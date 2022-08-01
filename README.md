@@ -1,2 +1,2 @@
 # Yhep
-https://qasimrg.github.io/Yhep/
+https://github.com/qasimrg/Yhep.git
